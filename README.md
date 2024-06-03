@@ -29,3 +29,6 @@ You can install the dependencies using pip:
 pip install numpy torch matplotlib
 
 
+**Results**
+![Deep Qlearning  Reward](https://github.com/ParisaMohammadi9094/ArmBandit-Deep-QLearning/assets/18152407/7afea83f-0598-4f19-914e-96e0eb264e9a)
+![Deep Qlearning](https://github.com/ParisaMohammadi9094/ArmBandit-Deep-QLearning/assets/18152407/24d0c3be-cb9d-45c4-be19-cbe51c2370c3)
